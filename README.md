@@ -1,2 +1,3 @@
-# HelloGitHub1
-ok
+# Erstes Github
+### LV: PR1
+### Name: Arijana, Mujanovic 
